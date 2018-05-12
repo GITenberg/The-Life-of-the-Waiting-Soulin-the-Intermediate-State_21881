@@ -1,0 +1,27 @@
+_repo: The-Life-of-the-Waiting-Soulin-the-Intermediate-State_21881
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanderson, R. E. (Robert Edward)
+    alias: Sanderson, Robert Edward
+    birthdate: 1830
+    deathdate: 1913
+    gutenberg_agent_id: '24950'
+    url: http://www.gutenberg.org/2009/agents/24950
+description: ''
+gutenberg_issued: '2007-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intermediate state'
+- !lcc 'BT'
+title: The Life of the Waiting Soul in the Intermediate State
+url: http://www.gutenberg.org/ebooks/21881
