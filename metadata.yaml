@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24950'
     url: http://www.gutenberg.org/2009/agents/24950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21881#The-Life-of-the-Waiting-Soulin-the-Intermediate-State
 gutenberg_issued: '2007-06-20'
 gutenberg_type: Text
 identifiers:
